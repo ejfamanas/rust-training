@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/control_flow/for_loop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/control_flow/if_statement" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/control_flow/match_statement" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/control_flow/while_and_loop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/types_and_variables/constants" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/types_and_variables/core_data_types" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/types_and_variables/debugging" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/types_and_variables/hello_world" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/types_and_variables/operators" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/types_and_variables/scoping" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/types_and_variables/stack_and_heap" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,1 @@
+/Users/efamanas/Workspace/personal-projects/rust-training/data_structures/generics/target/debug/generics: /Users/efamanas/Workspace/personal-projects/rust-training/data_structures/generics/src/main.rs

@@ -1,0 +1,1 @@
+/Users/efamanas/Workspace/personal-projects/rust-training/standard_collections/vectors/target/debug/vectors: /Users/efamanas/Workspace/personal-projects/rust-training/standard_collections/vectors/src/main.rs

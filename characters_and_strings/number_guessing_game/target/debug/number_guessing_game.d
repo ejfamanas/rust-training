@@ -1,0 +1,1 @@
+/Users/efamanas/Workspace/personal-projects/rust-training/characters_and_strings/number_guessing_game/target/debug/number_guessing_game: /Users/efamanas/Workspace/personal-projects/rust-training/characters_and_strings/number_guessing_game/src/main.rs

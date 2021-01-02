@@ -21,4 +21,10 @@ fn main() {
     // test the key value return like get, if not insert val
     shapes.entry(String::from("circle")).or_insert(1);
     println!("a circle has {} side", shapes["circle".into()]);
+
+    // here by doing this, we are mutating the circles value in
+    // the hash map because of referencing
+    let actual = shapes.entry(String::from("circle")).or_insert(2);
+    *actual = 0;
+    println!("{:?}", shapes);
 }

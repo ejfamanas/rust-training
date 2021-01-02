@@ -1,0 +1,1 @@
+/Users/efamanas/Workspace/personal-projects/rust-training/characters_and_strings/string_formatting/target/debug/string_formatting: /Users/efamanas/Workspace/personal-projects/rust-training/characters_and_strings/string_formatting/src/main.rs

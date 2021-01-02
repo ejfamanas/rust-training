@@ -1,0 +1,1 @@
+/Users/efamanas/Workspace/personal-projects/rust-training/standard_collections/iterators/target/debug/iterators: /Users/efamanas/Workspace/personal-projects/rust-training/standard_collections/iterators/src/main.rs

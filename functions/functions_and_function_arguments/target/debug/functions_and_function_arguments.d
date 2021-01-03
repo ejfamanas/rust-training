@@ -1,0 +1,1 @@
+/Users/efamanas/Workspace/personal-projects/rust-training/functions/functions_and_function_arguments/target/debug/functions_and_function_arguments: /Users/efamanas/Workspace/personal-projects/rust-training/functions/functions_and_function_arguments/src/main.rs

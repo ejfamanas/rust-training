@@ -1,0 +1,1 @@
+/Users/efamanas/Workspace/personal-projects/rust-training/functions/higher_order_functions/target/debug/higher_order_functions: /Users/efamanas/Workspace/personal-projects/rust-training/functions/higher_order_functions/src/main.rs

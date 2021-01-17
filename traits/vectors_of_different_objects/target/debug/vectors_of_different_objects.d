@@ -1,0 +1,1 @@
+/Users/efamanas/Workspace/personal-projects/rust-training/traits/vectors_of_different_objects/target/debug/vectors_of_different_objects: /Users/efamanas/Workspace/personal-projects/rust-training/traits/vectors_of_different_objects/src/main.rs

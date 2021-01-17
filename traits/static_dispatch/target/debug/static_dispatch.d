@@ -1,0 +1,1 @@
+/Users/efamanas/Workspace/personal-projects/rust-training/traits/static_dispatch/target/debug/static_dispatch: /Users/efamanas/Workspace/personal-projects/rust-training/traits/static_dispatch/src/main.rs

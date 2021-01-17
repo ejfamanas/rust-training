@@ -1,0 +1,1 @@
+/Users/efamanas/Workspace/personal-projects/rust-training/traits/dynamic_dispatch/target/debug/dynamic_dispatch: /Users/efamanas/Workspace/personal-projects/rust-training/traits/dynamic_dispatch/src/main.rs

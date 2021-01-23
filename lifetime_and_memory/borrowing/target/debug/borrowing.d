@@ -1,0 +1,1 @@
+/Users/efamanas/Workspace/personal-projects/rust-training/lifetime_and_memory/borrowing/target/debug/borrowing: /Users/efamanas/Workspace/personal-projects/rust-training/lifetime_and_memory/borrowing/src/main.rs

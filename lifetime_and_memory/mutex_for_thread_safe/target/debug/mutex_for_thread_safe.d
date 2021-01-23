@@ -1,0 +1,1 @@
+/Users/efamanas/Workspace/personal-projects/rust-training/lifetime_and_memory/mutex_for_thread_safe/target/debug/mutex_for_thread_safe: /Users/efamanas/Workspace/personal-projects/rust-training/lifetime_and_memory/mutex_for_thread_safe/src/main.rs

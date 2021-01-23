@@ -1,0 +1,1 @@
+/Users/efamanas/Workspace/personal-projects/rust-training/lifetime_and_memory/lifetime/target/debug/lifetime: /Users/efamanas/Workspace/personal-projects/rust-training/lifetime_and_memory/lifetime/src/main.rs
